@@ -1,3 +1,4 @@
+// this comment was made from inside the cloned repository
 
 module Main where
 
