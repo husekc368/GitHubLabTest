@@ -3,6 +3,6 @@
 module Main where
 
 main = putStrLn "Hello Cody Husek!"
-//corey purcell made this change 8:43pm-----
+//corey purcell made this change 8:43pm
 
 
