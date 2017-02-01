@@ -1,4 +1,5 @@
 // this comment was made from inside the cloned repository
+//new comment
 
 module Main where
 
